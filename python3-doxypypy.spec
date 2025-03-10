@@ -4,7 +4,7 @@ Summary(pl.UTF-8):	Filtr Doxygena dla Pythona
 # Name must match the python module/package name (as on pypi or in 'import' statement)
 Name:		python3-%{module}
 Version:	0.8.8.6
-Release:	5
+Release:	6
 License:	GPL v2
 Group:		Libraries/Python
 # git version from 2021-08-02
